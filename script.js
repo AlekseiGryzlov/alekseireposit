@@ -48,6 +48,8 @@ isClose = false;
 // console.log(isChecked && isClose)
 console.log(isChecked || isClose);
 
+let git = 15
+console.log (git);
 
 
 
